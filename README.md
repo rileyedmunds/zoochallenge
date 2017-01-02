@@ -1,7 +1,7 @@
-# Code samples for "Network Zoo Challenge"
+#"Network Zoo Challenge"
 
-This repository contains the code from my winter break Network Zoo Challenge:
-	Implement each and every neural network model from [The Neural Network Zoo - The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/) over Winter Break 2016-2017.
+This repository contains the code from my personal winter break challenge:
+	implement each and every model from [The Neural Network Zoo - The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/) in TensorFlow over Winter Break 2016-2017.
 
 
 ## License
